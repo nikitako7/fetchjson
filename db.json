@@ -1,0 +1,26 @@
+[
+    { "photo": "img/market-1.png",
+      "title": "Дощовик прозорий Warning",
+      "price": "800грн"
+    },
+    { "photo": "img/market-2.png", 
+      "title": "Дощовик прозорий Warning",
+      "price": "800грн"
+    },
+    { "photo": "img/market-3.png",
+      "title": "Дощовик прозорий Warning",
+      "price": "800грн"
+    },
+    { "photo": "img/market-4.png",
+      "title": "Дощовик прозорий Warning",
+      "price": "800грн"
+    },
+    { "photo": "img/market-5.png", 
+      "title": "Дощовик прозорий Warning",
+      "price": "800грн"
+    },
+    { "photo": "img/market-6.png",
+      "title": "Дощовик прозорий Warning",
+      "price": "800грн"
+    }
+ ]
